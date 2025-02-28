@@ -2,6 +2,12 @@
 
 An interactive Tower of Hanoi puzzle implementation featuring both 3D and text-based visualizations. Experience the classic puzzle-solving challenge with a modern twist, combining beautiful 3D graphics with a traditional ASCII art display.
 
+## Live Demo
+
+You can try the live demo of this application at: https://making.github.io/tower-of-hanoi/
+
+The demo is automatically deployed to GitHub Pages whenever changes are pushed to the main branch.
+
 ## Installation
 
 1. Clone the repository:
