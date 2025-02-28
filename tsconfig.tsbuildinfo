@@ -1,0 +1,1 @@
+{"root":["./src/towerofhanoi.tsx","./src/main.tsx","./src/__tests__/algorithm.test.ts","./src/components/3d/diskmesh.tsx","./src/components/3d/ground.tsx","./src/components/3d/hanoi3dview.tsx","./src/components/3d/peg.tsx","./src/components/text/hanoitextview.tsx","./src/hooks/usehanoistate.ts","./src/types/index.ts","./src/utils/algorithm.ts"],"errors":true,"version":"5.7.3"}
